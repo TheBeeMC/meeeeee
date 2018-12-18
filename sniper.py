@@ -31,17 +31,11 @@ async def on_message(message):
          
     
              
-    if message.content.startswith('asdasd'):
-        await bot.send_message(message.channel, "Unable to find a server we can move to your discord account. Please wait and try again.")   
-      
-      
-    if message.content.startswith('.ds confirm'):
-        await bot.send_message(message.channel, "Unable to find a server we can move to your discord account. Please wait and try again.")                
-      
-        
-    if message.content.startswith('dk124x3'):
+    if message.content.startswith('lolhellolmao'):
         await bot.delete_message(message)
-        await bot.send_message(message.channel, "New NAME drop: `Written`")           
+        await bot.send_message(message.channel, "Hello there how are you all doing?")   
+      
+      
       
        
            
